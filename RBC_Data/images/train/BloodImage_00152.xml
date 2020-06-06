@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>WBC</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>144</xmin>
-			<ymin>42</ymin>
-			<xmax>277</xmax>
-			<ymax>167</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>RBC</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
