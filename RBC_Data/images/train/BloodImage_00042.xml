@@ -96,42 +96,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>WBC</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>406</xmin>
-			<ymin>161</ymin>
-			<xmax>457</xmax>
-			<ymax>229</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>WBC</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>136</xmin>
-			<ymin>196</ymin>
-			<xmax>272</xmax>
-			<ymax>322</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>WBC</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>273</ymin>
-			<xmax>20</xmax>
-			<ymax>317</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>RBC</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -189,18 +153,6 @@
 			<ymin>221</ymin>
 			<xmax>640</xmax>
 			<ymax>300</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>WBC</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>393</xmin>
-			<ymin>1</ymin>
-			<xmax>467</xmax>
-			<ymax>20</ymax>
 		</bndbox>
 	</object>
 	<object>
